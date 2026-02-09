@@ -107,7 +107,7 @@ export default function App() {
                         <div className="h-px bg-emerald-100 my-1 mx-3"></div>
                         
                         <a
-                          href="https://cria-curriculo.vercel.app"
+                          href="https://criacurriculo.aquiguaira.com.br"
                           target="_blank"
                           rel="noopener noreferrer"
                           onClick={() => setDropdownOpen(false)}
